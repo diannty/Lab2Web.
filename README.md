@@ -19,3 +19,6 @@ MEMBUAT DOKUMEN HTML
 Pertama - tama disini membuat sebuah dokumen dasar Html seperti dibawah ini terlebih dahulu, yang nantinya akan dimodifikasi.
 ![satu](https://user-images.githubusercontent.com/101880835/160219386-a1fe9514-6842-46db-aba1-361e6b6af878.png)
 dari kodingan berikut :
+![lankah 1](https://user-images.githubusercontent.com/101880835/160219458-10737d75-dba8-4f3f-a16c-6518de6040e9.png)
+
+MENDEKLARASIKAN CSS INTERNAL
