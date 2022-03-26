@@ -34,6 +34,12 @@ Cara untuk menambahkan sebuah inline pada deklarasi sebelumnya kalian hanya perl
 
 **MEMBUAT CSS EKSTERNAL**
 Langkah selanjutnya, disini membuat sebuah file baru terlebih dahulu dengan judul style_eksternal.css yang kemudian nantinya akan dideklarasikan kembali seperti dibawah ini.
-
+![empat](https://user-images.githubusercontent.com/101880835/160220937-a184ab34-100e-4de5-9332-98e7af6b07d2.png)
 Selanjutnya, kembali pada Html dan kemudian kita tambahkan sebuah tag < link > untuk dapat merujuk ke file CSS yang sudah dibuat pada bagian seperti ini.
+![langkah 4](https://user-images.githubusercontent.com/101880835/160220942-c358f2e2-8a4a-4b6a-a8a7-be2a8f3f3f3c.png)
+![langkah 4 1](https://user-images.githubusercontent.com/101880835/160220952-046dcd78-5871-48c7-925c-c2e14807b90d.png)
+
+MENAMBAHKAN CSS SELECTOR
+Langkah terakhir yaitu diakhiri dengan menambahkannya sebuah CSS Selector yang menggunakan ID dan Class Selector pada file style_eksternal.css sebelumnya.
+Dan untuk dapat menambahkan sebuah CSS Selector maka kalian hanya perlu menambahkan kode berikut pada codingan di file style_eksternal.css seperti dibawah ini.
 
