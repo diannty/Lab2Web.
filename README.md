@@ -65,4 +65,6 @@ Langkah terakhir yaitu diakhiri dengan menambahkannya sebuah CSS Selector yang m
 
 Dan untuk dapat menambahkan sebuah CSS Selector maka kalian hanya perlu menambahkan kode berikut pada codingan di file style_eksternal.css seperti dibawah ini.
 
+![lima](https://user-images.githubusercontent.com/101880835/160221408-0367a6e4-a5d3-4a50-a72c-54e935703f43.png)
+
 
