@@ -92,5 +92,7 @@ Jika ketiganya di deklarasikan secara bersamaan maka yang muncul di browser hany
 
 ![tigaaa](https://user-images.githubusercontent.com/101880835/160222369-4ee9a381-fa57-408b-a41a-05ba73547372.png)
 
-![nomor 3](https://user-images.githubusercontent.com/101880835/160222393-04581275-28db-4aa5-9dc7-f90a5eff5d11.png)
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+Yang akan ditampilkan pada bworser dari keduanya adalah ID.
+
 
