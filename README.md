@@ -28,5 +28,6 @@ Dan untuk dapat menambahkan sebuah deklarasi tersebut, bisa menggunakan codingan
 
 MENAMBAHKAN INLINE CSS
 Setelah menambahkan deklarasi internal seperti diatas, selanjutnya menambahkan sebuah Inline CSS pada deklarasi tersebut seperti dibawah ini.
-
+![tiga](https://user-images.githubusercontent.com/101880835/160219906-7c404e79-a2fb-4c31-986f-2f76cc9ffe91.png)
 Cara untuk menambahkan sebuah inline pada deklarasi sebelumnya kalian hanya perlu menambahkan sebuah tag < P > berikut pada sebuah awal kalimat yang diinginkan agar menampilkan sebuah warna yang kalian mau, disini saya memakai warna hitam dengan codingan sebagai berikut.
+![langkah 3](https://user-images.githubusercontent.com/101880835/160219896-b53f4ec3-d214-473d-ace2-31e9b7b65996.png)
