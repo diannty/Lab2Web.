@@ -88,3 +88,6 @@ Elemen #intro h1 {...} memiliki id maka penggunaan pada css dengan pagar (#) dan
 **3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!**
 Jika ketiganya di deklarasikan secara bersamaan maka yang muncul di browser hanyalah hasil deklarasian Inline CSS. Karena Inline memiliki prioritas terkuat dibandingkan dengan internal ataupun eksternal.
 
+![CONTOH](https://user-images.githubusercontent.com/101880835/160222319-09d704ab-5d2f-4aef-8a22-9ddf0afb3a1f.png)
+
+![tigaaa](https://user-images.githubusercontent.com/101880835/160222369-4ee9a381-fa57-408b-a41a-05ba73547372.png)
