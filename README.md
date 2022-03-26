@@ -92,7 +92,16 @@ Jika ketiganya di deklarasikan secara bersamaan maka yang muncul di browser hany
 
 ![tigaaa](https://user-images.githubusercontent.com/101880835/160222369-4ee9a381-fa57-408b-a41a-05ba73547372.png)
 
-4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+![contoh 3](https://user-images.githubusercontent.com/101880835/160222621-c664be43-40d4-4124-8fb5-7bd149280720.png)
+
+
+**4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya**
+
 Yang akan ditampilkan pada bworser dari keduanya adalah ID.
+
+![empat](https://user-images.githubusercontent.com/101880835/160222627-59d6f5de-8d63-4e30-bf6a-0762aff21635.png)
+
+Seperti yang dilihat, ID memiliki properti {color:rgb(154, 110, 140); text-align:center} karena lebih unik dibandingkan CLASS.
+
 
 
