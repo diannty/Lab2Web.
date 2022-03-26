@@ -91,3 +91,6 @@ Jika ketiganya di deklarasikan secara bersamaan maka yang muncul di browser hany
 ![CONTOH](https://user-images.githubusercontent.com/101880835/160222319-09d704ab-5d2f-4aef-8a22-9ddf0afb3a1f.png)
 
 ![tigaaa](https://user-images.githubusercontent.com/101880835/160222369-4ee9a381-fa57-408b-a41a-05ba73547372.png)
+
+![nomor 3](https://user-images.githubusercontent.com/101880835/160222393-04581275-28db-4aa5-9dc7-f90a5eff5d11.png)
+
