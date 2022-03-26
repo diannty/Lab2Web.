@@ -68,3 +68,23 @@ Dan untuk dapat menambahkan sebuah CSS Selector maka kalian hanya perlu menambah
 ![lima](https://user-images.githubusercontent.com/101880835/160221408-0367a6e4-a5d3-4a50-a72c-54e935703f43.png)
 
 
+
+
+**PERTANYAAN DAN TUGAS**
+**1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.**
+
+![lima](https://user-images.githubusercontent.com/101880835/160221408-0367a6e4-a5d3-4a50-a72c-54e935703f43.png)
+
+![langkah 5](https://user-images.githubusercontent.com/101880835/160220962-dccc182d-47a1-499a-afad-538ff805543a.png)
+
+**2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!**
+
+Elemen h1 {...}
+ 
+Elemen h1 {...} yang dideklarasikan pada CSS mengacu pada style atau gaya teks saja yang ada di halaman awal web (sebagai header) atau memberi style CSS pada elemen HTML yang diingikan. Elemen h1 {...} mengacu pada Internal CSS yaitu menyisipkan CSS pada file HTML.
+Elemen #intro h1 {...}    
+Elemen #intro h1 {...} memiliki id maka penggunaan pada css dengan pagar (#) dan di dalam file index.html dalam pemanggilannya menggunakan id=" ". Elemen tersebut mengacu pada tampilan selector yang terdiri dari ID dan Class dimana ID selector ditandai dengan tanda pagar (#) di depannya.
+
+**3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!**
+Jika ketiganya di deklarasikan secara bersamaan maka yang muncul di browser hanyalah hasil deklarasian Inline CSS. Karena Inline memiliki prioritas terkuat dibandingkan dengan internal ataupun eksternal.
+
