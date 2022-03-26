@@ -42,7 +42,7 @@ Setelah menambahkan deklarasi internal seperti diatas, selanjutnya menambahkan s
 
 ![tiga](https://user-images.githubusercontent.com/101880835/160219906-7c404e79-a2fb-4c31-986f-2f76cc9ffe91.png)
 
-Cara untuk menambahkan sebuah inline pada deklarasi sebelumnya kalian hanya perlu menambahkan sebuah tag < P > berikut pada sebuah awal kalimat yang diinginkan agar menampilkan sebuah warna yang kalian mau, disini saya memakai warna hitam dengan codingan sebagai berikut.
+Cara untuk menambahkan sebuah inline pada deklarasi sebelumnya kalian hanya perlu menambahkan sebuah tag < P > berikut pada sebuah awal kalimat yang diinginkan agar menampilkan sebuah warna yang diinginkan.
 
 ![langkah 3](https://user-images.githubusercontent.com/101880835/160219896-b53f4ec3-d214-473d-ace2-31e9b7b65996.png)
 
@@ -74,7 +74,11 @@ Dan untuk dapat menambahkan sebuah CSS Selector maka kalian hanya perlu menambah
 
 
 
+
+
 **PERTANYAAN DAN TUGAS**
+
+
 **1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.**
 
 ![lima](https://user-images.githubusercontent.com/101880835/160221408-0367a6e4-a5d3-4a50-a72c-54e935703f43.png)
