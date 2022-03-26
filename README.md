@@ -41,5 +41,7 @@ Selanjutnya, kembali pada Html dan kemudian kita tambahkan sebuah tag < link > u
 
 MENAMBAHKAN CSS SELECTOR
 Langkah terakhir yaitu diakhiri dengan menambahkannya sebuah CSS Selector yang menggunakan ID dan Class Selector pada file style_eksternal.css sebelumnya.
+![langkah 5](https://user-images.githubusercontent.com/101880835/160220962-dccc182d-47a1-499a-afad-538ff805543a.png)
 Dan untuk dapat menambahkan sebuah CSS Selector maka kalian hanya perlu menambahkan kode berikut pada codingan di file style_eksternal.css seperti dibawah ini.
+![lima](https://user-images.githubusercontent.com/101880835/160220971-763ce1c2-52e1-438d-bcb3-f5b683422fc6.png)
 
