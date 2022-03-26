@@ -13,6 +13,7 @@ Mata Kuliah		= Pemrograman Web
 
 Dosen Pengajar	= Agung Nugroho, S. Kom., M. Kom
 
+
 **MEMBUAT DOKUMEN HTML**
 
 Pertama - tama disini membuat sebuah dokumen dasar Html seperti dibawah ini terlebih dahulu, yang nantinya akan dimodifikasi.
@@ -24,6 +25,7 @@ Dari kodingan berikut :
 ![langkah 1](https://user-images.githubusercontent.com/101880835/160219458-10737d75-dba8-4f3f-a16c-6518de6040e9.png)
 
 
+
 **MENDEKLARASIKAN CSS INTERNAL**
 
 ![dua](https://user-images.githubusercontent.com/101880835/160219640-70c12c38-7725-4677-83e4-2d7cf9eec607.png)
@@ -31,6 +33,7 @@ Dari kodingan berikut :
 Dan untuk dapat menambahkan sebuah deklarasi tersebut, bisa menggunakan codingan dibawah, yang bisa ditambahkan dibagian head dari codingan dokumen sebelumnya.
 
 ![langkah 2](https://user-images.githubusercontent.com/101880835/160219630-8310ac7f-4c51-444d-9d64-59667272caa8.png)
+
 
 
 **MENAMBAHKAN INLINE CSS**
@@ -57,6 +60,7 @@ Selanjutnya, kembali pada Html dan kemudian kita tambahkan sebuah tag < link > u
 ![langkah 4](https://user-images.githubusercontent.com/101880835/160220942-c358f2e2-8a4a-4b6a-a8a7-be2a8f3f3f3c.png)
 
 
+
 **MENAMBAHKAN CSS SELECTOR**
 
 Langkah terakhir yaitu diakhiri dengan menambahkannya sebuah CSS Selector yang menggunakan ID dan Class Selector pada file style_eksternal.css sebelumnya.
@@ -79,13 +83,14 @@ Dan untuk dapat menambahkan sebuah CSS Selector maka kalian hanya perlu menambah
 
 **2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!**
 
-Elemen h1 {...}
  
 Elemen h1 {...} yang dideklarasikan pada CSS mengacu pada style atau gaya teks saja yang ada di halaman awal web (sebagai header) atau memberi style CSS pada elemen HTML yang diingikan. Elemen h1 {...} mengacu pada Internal CSS yaitu menyisipkan CSS pada file HTML.
-Elemen #intro h1 {...}    
+
 Elemen #intro h1 {...} memiliki id maka penggunaan pada css dengan pagar (#) dan di dalam file index.html dalam pemanggilannya menggunakan id=" ". Elemen tersebut mengacu pada tampilan selector yang terdiri dari ID dan Class dimana ID selector ditandai dengan tanda pagar (#) di depannya.
 
+
 **3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!**
+
 Jika ketiganya di deklarasikan secara bersamaan maka yang muncul di browser hanyalah hasil deklarasian Inline CSS. Karena Inline memiliki prioritas terkuat dibandingkan dengan internal ataupun eksternal.
 
 ![CONTOH](https://user-images.githubusercontent.com/101880835/160222319-09d704ab-5d2f-4aef-8a22-9ddf0afb3a1f.png)
@@ -96,6 +101,7 @@ Jika ketiganya di deklarasikan secara bersamaan maka yang muncul di browser hany
 
 
 **4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya**
+
 
 Yang akan ditampilkan pada bworser dari keduanya adalah ID.
 
