@@ -17,3 +17,5 @@ JAWAB =
 
 MEMBUAT DOKUMEN HTML
 Pertama - tama disini membuat sebuah dokumen dasar Html seperti dibawah ini terlebih dahulu, yang nantinya akan dimodifikasi.
+![satu](https://user-images.githubusercontent.com/101880835/160219386-a1fe9514-6842-46db-aba1-361e6b6af878.png)
+dari kodingan berikut :
